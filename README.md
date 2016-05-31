@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Ladys and motherfuckers!
+
+I like Objective-C and PSoC Programming!
